@@ -121,7 +121,7 @@ const Video = () => {
         </VideoWrapper>
         <Title>Test Video</Title>
         <Details>
-          <Info>7,948,154 views • Jun 22, 2022</Info>
+          <Info>1,364,987 attendances • Nov 22, 2022</Info>
           <Buttons>
             <Button>
               <ThumbUpOutlinedIcon /> 123
