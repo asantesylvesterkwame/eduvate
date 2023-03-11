@@ -89,7 +89,7 @@ const Menu = ({ darkMode, setDarkMode }) => {
         <Link to="/" style={{ textDecoration: "none", color: "inherit" }}>
           <Logo>
             <Img src={eduvateLogo} />
-            eduvate
+            !eduvate
           </Logo>
         </Link>
         <Item>
@@ -115,7 +115,7 @@ const Menu = ({ darkMode, setDarkMode }) => {
         </Item>
         <Hr />
         <Login>
-          Sign in to like videos, comment, and subscribe.
+          Sign in to understand, comment, and Enroll.
           <Link to="signin" style={{textDecoration:"none"}}>
             <Button>
               <AccountCircleOutlinedIcon />
@@ -124,7 +124,7 @@ const Menu = ({ darkMode, setDarkMode }) => {
           </Link>
         </Login>
         <Hr />
-        <Title>BEST OF LAMATUBE</Title>
+        <Title>Hot on !eduvate</Title>
         <Item>
           <LibraryMusicOutlinedIcon />
           Music
